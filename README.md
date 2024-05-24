@@ -1,5 +1,5 @@
 
-# EDICWRN: Efficient Deep Image Clustering with the Weight of Representations and the help of Neighbors
+# EDCWRN: Efficient Deep Clustering with the Weight of Representations and the help of Neighbors
 
 The Source Code includes the Python implementation of the EDICWRN algorithm presented in:
 
